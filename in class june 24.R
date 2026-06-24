@@ -12,5 +12,5 @@ gitcreds::gitcreds_set()
 #next, save and commit
 
 # then, put the project onto github:
-use_github()
+usethis::use_github()
 

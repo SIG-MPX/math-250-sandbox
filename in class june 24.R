@@ -14,3 +14,7 @@ gitcreds::gitcreds_set()
 # then, put the project onto github:
 usethis::use_github()
 
+# next add a readme to the project page
+usethis::use_readme_md()
+
+# finally, commit and push changes

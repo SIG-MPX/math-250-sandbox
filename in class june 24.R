@@ -10,3 +10,7 @@ gitcreds::gitcreds_set()
 # your creds will be different, duhhhhhhhhhhhhhhhhhhhhhhhhh
 
 #next, save and commit
+
+# then, put the project onto github:
+use_github()
+
